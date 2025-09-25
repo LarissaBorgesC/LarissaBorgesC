@@ -1,5 +1,8 @@
 ##  Olá! Me chamo Larissa Borges 😁
 
+### Cursando Inteligência de mercado e analise de dados
+Envolve a coleta, análise e interpretação de dados para tomada de decisões estratégicas em negócios
+
 ### Formada em pessoa desenvolvera Full Stack.
 - O curso foi divido em 3 módulos:
 
