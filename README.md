@@ -21,4 +21,4 @@ Experiência em ecossistemas de atendimento B2B SaaS multiproduto, suporte N1/He
 
 ### 🌐 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/larissa-borges-a8a900158)
-- 📧 lariborgesc7@gmail.com[cite: 6, 9]
+- 📧 lariborgesc7@gmail.com
